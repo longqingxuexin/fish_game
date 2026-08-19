@@ -2,6 +2,8 @@
 node_modules/
 .pnpm-store/
 tmp-image-originals/
+public/img/
+assets/
 
 # Build and coverage output
 
@@ -9,6 +11,7 @@ dist/
 build/
 coverage/
 .vite/
+
 
 # Local environment and secrets
 .env
