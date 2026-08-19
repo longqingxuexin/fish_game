@@ -1,0 +1,31 @@
+# Dependencies and local package stores
+node_modules/
+.pnpm-store/
+tmp-image-originals/
+
+# Build and coverage output
+
+dist/
+build/
+coverage/
+.vite/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+project.private.config.json
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+
