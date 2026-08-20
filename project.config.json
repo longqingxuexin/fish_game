@@ -1,7 +1,7 @@
 {
   "description": "深海吞噬者微信小游戏",
   "compileType": "game",
-  "libVersion": "3.17.1",
+  "libVersion": "3.17.0",
   "appid": "wxd778dd1b82e2b0aa",
   "projectname": "free-fish-eat-fish",
   "miniprogramRoot": "./",
@@ -35,64 +35,64 @@
   "packOptions": {
     "ignore": [
       {
-        "type": "folder",
-        "value": "node_modules"
+        "value": "node_modules",
+        "type": "folder"
       },
       {
-        "type": "folder",
-        "value": ".pnpm-store"
+        "value": ".pnpm-store",
+        "type": "folder"
       },
       {
-        "type": "folder",
-        "value": "dist"
+        "value": "dist",
+        "type": "folder"
       },
       {
-        "type": "folder",
-        "value": "public"
+        "value": "public",
+        "type": "folder"
       },
       {
-        "type": "folder",
-        "value": "src"
+        "value": "src",
+        "type": "folder"
       },
       {
-        "type": "folder",
-        "value": "img"
+        "value": "img",
+        "type": "folder"
       },
       {
-        "type": "folder",
-        "value": "assets"
+        "value": "assets",
+        "type": "folder"
       },
       {
-        "type": "folder",
-        "value": "docs"
+        "value": "docs",
+        "type": "folder"
       },
       {
-        "type": "folder",
-        "value": "tmp-image-originals"
+        "value": "tmp-image-originals",
+        "type": "folder"
       },
       {
-        "type": "folder",
-        "value": "tmp-image-previews"
+        "value": "tmp-image-previews",
+        "type": "folder"
       },
       {
-        "type": "file",
-        "value": "index.html"
+        "value": "index.html",
+        "type": "file"
       },
       {
-        "type": "file",
-        "value": "package.json"
+        "value": "package.json",
+        "type": "file"
       },
       {
-        "type": "file",
-        "value": "pnpm-lock.yaml"
+        "value": "pnpm-lock.yaml",
+        "type": "file"
       },
       {
-        "type": "file",
-        "value": "pnpm-workspace.yaml"
+        "value": "pnpm-workspace.yaml",
+        "type": "file"
       },
       {
-        "type": "file",
-        "value": "tsconfig.json"
+        "value": "tsconfig.json",
+        "type": "file"
       }
     ],
     "include": []
