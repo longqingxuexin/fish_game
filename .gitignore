@@ -3,7 +3,6 @@ node_modules/
 .pnpm-store/
 tmp-image-originals/
 public/img/
-assets/
 
 # Build and coverage output
 

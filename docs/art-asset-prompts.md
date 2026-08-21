@@ -13,7 +13,7 @@
 
 ## 二、推荐素材清单
 
-1. 玩家鱼：4 个成长阶段。
+1. 玩家鱼：5 个成长阶段，按 `player_1.webp` → `player_2.webp` → `player_3.webp` → `player_4.webp` → `player_0.webp` 使用；其中 `player_0.webp` 为最终进化形态。
 2. 普通小鱼：5～8 种。
 3. 中型鱼：4～6 种。
 4. 大鱼：3～5 种。
@@ -37,7 +37,7 @@ text, logo, watermark, border, frame, cropped, cut off, duplicate fish, multiple
 ## 五、玩家鱼成长阶段提示词
 
 ```text
-同一条卡通海洋游戏玩家鱼的四个成长阶段，从小型到巨大，保持完全一致的角色设计和配色，侧面朝右，体型逐步变大，鱼鳍和鱼尾清晰，透明背景，四个独立角色，无文字，无水印，2D mobile game sprite sheet
+同一条卡通海洋游戏玩家鱼的五个成长阶段，从小型到巨大，保持完全一致的角色设计和配色，侧面朝右，体型逐步变大，鱼鳍和鱼尾清晰，透明背景，五个独立角色，无文字，无水印，2D mobile game sprite sheet；文件顺序为 player_1.webp、player_2.webp、player_3.webp、player_4.webp，最终进化形态为 player_0.webp
 ```
 
 ## 六、小鱼群提示词
@@ -138,4 +138,3 @@ underwater_background_01.png
 ## 十八、授权检查
 
 优先选择 CC0、Public Domain 或明确允许商业使用的素材。必须确认素材允许用于微信小游戏，不带第三方品牌和角色，不仅限个人非商业使用。不要把 AppSecret、密码、验证码或实名认证资料提供给图片生成工具。
-
