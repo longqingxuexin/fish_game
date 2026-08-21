@@ -1,5 +1,5 @@
 export type SkillType='global_eat'|'type_eat'|'speed_up'|'grow'|'heal'|'invincible';
-export const SKILL_INTERVAL_SEC = 120;
+export const SKILL_INTERVAL_SEC = 5;
 export const TEST_SKILL_INTERVAL_SEC = 5;
 
 export function nextSkillAt(now: number, testMode = false): number {
