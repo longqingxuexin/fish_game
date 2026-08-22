@@ -11,7 +11,7 @@ if(wx.cloud&&CLOUD_ENV_ID.indexOf('请替换')!==0)wx.cloud.init({env:CLOUD_ENV_
 // assets 目录随小游戏一起上传，不依赖浏览器代理、DNS 或 HTTP/2。
 const LOCAL_ASSET_BASE='assets/';
 // 真机兼容性优先：小游戏运行资源使用 PNG，避免部分设备对 WebP 编码解码失败。
-const LOCAL_ASSET_EXT='webp';
+const LOCAL_ASSET_EXT='png';
 // 仅作为显式开启时的备用地址；默认关闭，避免启动时产生外网请求。
 const REMOTE_ASSET_BASE='https://raw.githubusercontent.com/longqingxuexin/fish_game/main/public/img/';
 const REMOTE_ASSET_EXT='webp';
