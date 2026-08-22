@@ -71,6 +71,10 @@
         "type": "folder"
       },
       {
+        "value": "tmp-doubao-music.mp4",
+        "type": "file"
+      },
+      {
         "value": "index.html",
         "type": "file"
       },
